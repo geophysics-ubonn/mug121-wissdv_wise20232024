@@ -1,0 +1,7 @@
+# Eigener Datensatz aus Hausaufgabe 04 
+
+#Wertereihe Stadt 1: 
+[1, 2, 3] 
+
+#Wertereihe Stadt 2: 
+[2, 3, 2]

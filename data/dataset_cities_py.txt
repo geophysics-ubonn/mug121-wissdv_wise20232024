@@ -1,0 +1,4 @@
+Daten Bonn: [1, 2, 3]
+Daten Köln: [2, 3, 2]
+Bonn Köln
+[1, 2, 3] [2, 3, 2]
